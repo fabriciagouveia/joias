@@ -1,0 +1,16 @@
+img {
+    width: 100px;
+}
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+h2{
+    color: rgb(0, 183, 255);
+}
+h1{
+    color: rgb(0, 183, 255);
+}
+p{
+    font-family: 'Times New Roman';
+}
